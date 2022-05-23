@@ -1,5 +1,5 @@
 ## Skills
-Coding :star: :star:
+Coding :star: :star: :star:
 
 Dev Experience :star: :star: :star:
 
