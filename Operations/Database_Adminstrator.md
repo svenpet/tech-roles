@@ -1,7 +1,10 @@
 ## Skills
 Coding :star: :star:
+
 Dev Experience :star: :star: :star:
+
 Teamwork: :star:
+
 People Skills: :star:
 
 ## What you do
