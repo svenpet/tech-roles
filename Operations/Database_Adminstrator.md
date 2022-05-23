@@ -1,8 +1,8 @@
 ## Skills
-Coding: 2/5
-Dev Experience: 3/5
-Teamwork: 1/5
-People Skills: 1/5
+Coding :star: :star:
+Dev Experience :star: :star: :star:
+Teamwork: :star:
+People Skills: :star:
 
 ## What you do
 * identify and resolve database performance issues
