@@ -1,5 +1,6 @@
 # Career Paths for Developers
 This repository contains different roles in tech.
+[Sales Engineer](../main/Customer%20Roles/Sales%20Engineer.md)
 
 ### Want to contribute?
 Please create a pull request if you want to add stuff or something changed.
